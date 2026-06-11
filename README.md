@@ -39,9 +39,13 @@ Discover where you can travel from any airport and get destination ideas with pr
    # Get your free API key at: https://apify.com?fpr=9n7kx3
    ```
 
-4. **Run the example**
+4. **Run an example**
    ```bash
+   # Single example:
    uv run python google-travel-explore-api-example.py
+
+   # Batch example (explores from several airports in one run):
+   uv run python google-travel-explore-api-batch-example.py
    ```
 
 ### Alternative: set the API key directly
@@ -92,6 +96,8 @@ MCP-ready. AI agents can call it as a tool through the hosted Apify MCP server, 
   "maxResultsPerDeparture": 50
 }
 ```
+
+For a runnable batch script, see `google-travel-explore-api-batch-example.py` in this repo.
 
 ## Input Parameters
 
@@ -268,4 +274,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Travel Explore API to power destination discovery for your travel product or AI agent.*
 
-Last Updated: 2026.06.01
+Last Updated: 2026.06.11
