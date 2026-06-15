@@ -19,8 +19,8 @@ Discover where you can travel from any airport and get destination ideas with pr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/johnisanerd/Apify-Google-Travel-Explore-API.git
-   cd Apify-Google-Travel-Explore-API
+   git clone https://github.com/johnisanerd/Google-Travel-Explore-API.git
+   cd Google-Travel-Explore-API
    ```
 
 2. **Install dependencies with UV**
@@ -274,4 +274,19 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Travel Explore API to power destination discovery for your travel product or AI agent.*
 
-Last Updated: 2026.06.11
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store, each targeting one departure city:
+
+- [Cheapest Places to Fly From New York With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-new-york-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From Los Angeles With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-los-angeles-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From Chicago With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-chicago-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From Atlanta With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-atlanta-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From Boston With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-boston-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From San Francisco With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-san-francisco-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From Miami With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-miami-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From Seattle With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-seattle-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From Dallas With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-dallas-with-prices?fpr=9n7kx3)
+- [Cheapest Places to Fly From Denver With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-denver-with-prices?fpr=9n7kx3)
+
+Last Updated: 2026.06.14
