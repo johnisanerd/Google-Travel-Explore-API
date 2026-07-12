@@ -290,4 +290,4 @@ Ready-to-run examples on the Apify Store, each targeting one departure city:
 - [Cheapest Places to Fly From Denver With Prices](https://apify.com/johnvc/google-travel-explore-api/examples/cheapest-places-to-fly-from-denver-with-prices?fpr=9n7kx3)
 - [Export Travel Destinations to CSV](https://apify.com/johnvc/google-travel-explore-api/examples/export-travel-destinations-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.07.11
+Last Updated: 2026.07.12
